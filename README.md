@@ -1,24 +1,4 @@
-# README
+# BASS MUSIC
+Rails app for music streaming service
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![app](https://user-images.githubusercontent.com/58056552/105403343-a009a080-5bf6-11eb-8299-32718e06bc3e.png)
